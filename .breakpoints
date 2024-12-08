@@ -1,0 +1,20 @@
+{
+  "files": {
+    "pages/.streamlit": [
+      {
+        "id": "dbae5826-e796-4e92-8368-4bdb2cf50b35",
+        "line": 1,
+        "version": 9,
+        "index": 0
+      }
+    ],
+    "pages/upload.py": [
+      {
+        "id": "6e7a048f-0cba-4f63-87d2-310d9d75646f",
+        "line": 1,
+        "version": 1941,
+        "index": 0
+      }
+    ]
+  }
+}
